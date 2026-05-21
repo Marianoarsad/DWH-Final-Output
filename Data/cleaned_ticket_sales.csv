@@ -1,0 +1,150 @@
+ticket_id,transaction_id,movie_title,genre,rating,branch_name,city,region,customer_type,screen_type,ticket_price,quantity,concession_amount,payment_method,sales_channel,screening_date,screening_time,total_sales
+TCK-0001,TXN-CIN-10001,Laughing Shadows,Comedy,PG,CineCity Iloilo,Iloilo City,Western Visayas,Family,Director's Club,700,5,120,GCash,Website,20/03/2026,1:00 pm,3620
+TCK-0002,TXN-CIN-10002,Monster Weekend,Horror,R-13,CineCity Iloilo,Iloilo City,Western Visayas,Senior,Premium,304,1,450,Maya,Mobile App,29/03/2026,7:00 pm,754
+TCK-0003,TXN-CIN-10003,Monster Weekend,Horror,R-13,CineCity Quezon,Quezon City,NCR,Senior,Premium,304,1,120,Maya,Website,17/01/2026,10:00 pm,424
+TCK-0004,TXN-CIN-10004,Masked Hero,Action,PG-13,CineCity Cebu,Cebu City,Central Visayas,PWD,IMAX,440,4,250,Maya,Mobile App,20/01/2026,10:00 pm,2010
+TCK-0005,TXN-CIN-10005,Love Behind the Mask,Romance,PG,CineCity Quezon,Quezon City,NCR,Regular,IMAX,550,6,300,Credit Card,Partner Kiosk,07/02/2026,10:00 am,3600
+TCK-0006,TXN-CIN-10006,Love Behind the Mask,Romance,PG,CineCity Quezon,Quezon City,NCR,Regular,Regular,280,6,250,GCash,Walk-in,11/03/2026,1:00 pm,1930
+TCK-0007,TXN-CIN-10007,Hidden Stage,Drama,PG,CineCity Cebu,Cebu City,Central Visayas,Regular,Regular,280,2,300,Credit Card,Walk-in,23/03/2026,4:00 pm,860
+TCK-0008,TXN-CIN-10008,Laughing Shadows,Comedy,PG,CineCity Davao,Davao City,Davao Region,Student,IMAX,495,4,180,Maya,Website,02/01/2026,10:00 am,2160
+TCK-0009,TXN-CIN-10009,Laughing Shadows,Comedy,PG,CineCity Iloilo,Iloilo City,Western Visayas,Family,IMAX,550,5,120,Debit Card,Website,30/03/2026,1:00 pm,2870
+TCK-0010,TXN-CIN-10010,Laughing Shadows,Comedy,PG,CineCity Quezon,Quezon City,NCR,Senior,Regular,224,1,450,Cash,Mobile App,20/02/2026,10:00 pm,674
+TCK-0011,TXN-CIN-10011,Pixel Quest,Animation,G,CineCity Quezon,Quezon City,NCR,Student,Premium,342,4,180,Debit Card,Partner Kiosk,29/01/2026,7:00 pm,1548
+TCK-0012,TXN-CIN-10012,Pixel Quest,Animation,G,CineCity Quezon,Quezon City,NCR,Student,IMAX,495,4,120,GCash,Mobile App,16/02/2026,10:00 pm,2100
+TCK-0013,TXN-CIN-10013,Hidden Stage,Drama,PG,CineCity Manila,Manila,NCR,Family,IMAX,550,3,250,Cash,Walk-in,02/03/2026,4:00 pm,1900
+TCK-0014,TXN-CIN-10014,Laughing Shadows,Comedy,PG,CineCity Quezon,Quezon City,NCR,Student,Premium,342,4,450,Maya,Mobile App,13/03/2026,1:00 pm,1818
+TCK-0015,TXN-CIN-10015,Masked Hero,Action,PG-13,CineCity Davao,Davao City,Davao Region,Family,Regular,280,2,120,Debit Card,Mobile App,27/02/2026,7:00 pm,680
+TCK-0016,TXN-CIN-10016,Pixel Quest,Animation,G,CineCity Davao,Davao City,Davao Region,Senior,Director's Club,560,2,450,GCash,Partner Kiosk,27/01/2026,7:00 pm,1570
+TCK-0017,TXN-CIN-10017,Pixel Quest,Animation,G,CineCity Quezon,Quezon City,NCR,PWD,Premium,304,3,0,Maya,Walk-in,27/03/2026,7:00 pm,912
+TCK-0018,TXN-CIN-10018,The Final Screening,Thriller,R-13,CineCity Quezon,quezon city,NCR,Family,IMAX,550,5,0,Credit Card,Partner Kiosk,18/01/2026,10:00 am,2750
+TCK-0019,TXN-CIN-10019,Laughing Shadows,Comedy,PG,CineCity Cebu,Cebu City,Central Visayas,Family,Director's Club,700,6,450,Cash,Walk-in,01/03/2026,7:00 pm,4650
+TCK-0020,TXN-CIN-10020,Hidden Stage,Drama,PG,CineCity Quezon,Quezon City,NCR,Student,Premium,342,6,250,Maya,Walk-in,12/01/2026,4:00 pm,2302
+TCK-0021,TXN-CIN-10021,Hidden Stage,Drama,PG,CineCity Cebu,Cebu City,Central Visayas,Regular,Director's Club,700,2,180,Maya,Website,20/02/2026,10:00 pm,1580
+TCK-0022,TXN-CIN-10022,Pixel Quest,Animation,G,CineCity Cebu,Cebu City,Central Visayas,Regular,Regular,280,2,120,Debit Card,Mobile App,25/02/2026,10:00 pm,680
+TCK-0023,TXN-CIN-10023,Laughing Shadows,Comedy,PG,CineCity Davao,Davao City,Davao Region,PWD,Premium,304,2,180,GCash,Walk-in,25/01/2026,10:00 am,788
+TCK-0024,TXN-CIN-10024,Love Behind the Mask,Romance,PG,CineCity Quezon,Quezon City,NCR,Senior,Premium,304,3,180,Debit Card,Mobile App,02/01/2026,7:00 pm,1092
+TCK-0025,TXN-CIN-10025,Laughing Shadows,Comedy,PG,CineCity Cebu,Cebu City,Central Visayas,Family,Director's Club,700,5,180,Cash,Mobile App,23/02/2026,7:00 pm,3680
+TCK-0026,TXN-CIN-10026,Pixel Quest,Animation,G,CineCity Iloilo,Iloilo City,Western Visayas,Senior,Premium,304,5,120,Credit Card,Partner Kiosk,01/03/2026,4:00 pm,1640
+TCK-0027,TXN-CIN-10027,Midnight Signal ,Sci-Fi,PG-13,CineCity Iloilo,Iloilo City,Western Visayas,Regular,IMAX,550,4,300,Credit Card,Partner Kiosk,12/01/2026,7:00 pm,2500
+TCK-0028,TXN-CIN-10028,Masked Hero,Action,PG-13,CineCity Cebu,Cebu City,Central Visayas,Regular,Director's Club,700,6,180,Debit Card,Walk-in,03/01/2026,7:00 pm,4380
+TCK-0029,TXN-CIN-10029,Pixel Quest,Animation,G,CineCity Quezon,Quezon City,NCR,Student,Director's Club,630,2,450,Cash,Walk-in,07/02/2026,10:00 pm,1710
+TCK-0030,TXN-CIN-10030,Love Behind the Mask,Romance,PG,CineCity Cebu,Cebu City,Central Visayas,PWD,Premium,304,6,120,GCash,Mobile App,23/03/2026,4:00 pm,1944
+TCK-0031,TXN-CIN-10031,Pixel Quest,Animation,G,CineCity Iloilo,Iloilo City,Western Visayas,Regular,Premium,380,1,0,Credit Card,Walk-in,28/03/2026,4:00 pm,380
+TCK-0032,TXN-CIN-10032,Monster Weekend,Horror,R-13,CineCity Davao,Davao City,Davao Region,PWD,IMAX,440,4,300,Cash,Partner Kiosk,06/01/2026,7:00 pm,2060
+TCK-0033,TXN-CIN-10033,Laughing Shadows,Comedy,PG,CineCity Manila,Manila,NCR,Senior,Director's Club,560,5,300,Maya,Website,09/01/2026,7:00 pm,3100
+TCK-0034,TXN-CIN-10034,Hidden Stage,Drama,PG,CineCity Cebu,Cebu City,Central Visayas,Family,IMAX,550,5,250,Debit Card,Partner Kiosk,02/02/2026,10:00 am,3000
+TCK-0035,TXN-CIN-10035,The Final Screening,Thriller,R-13,CineCity Cebu,Cebu City,Central Visayas,Student,Director's Club,630,5,120,Cash,Website,16/03/2026,7:00 pm,3270
+TCK-0036,TXN-CIN-10036,Love Behind the Mask,Romance,PG,CineCity Iloilo,Iloilo City,Western Visayas,PWD,Director's Club,560,4,120,GCash,Website,05/02/2026,10:00 am,2360
+TCK-0037,TXN-CIN-10037,Pixel Quest,Animation,G,CineCity Manila,Manila,NCR,Senior,Premium,304,4,300,Debit Card,Website,28/02/2026,10:00 pm,1516
+TCK-0038,TXN-CIN-10038,Love Behind the Mask,Romance,PG,CineCity Cebu,Cebu City,Central Visayas,Regular,Director's Club,700,6,250,GCash,Walk-in,15/02/2026,1:00 pm,4450
+TCK-0039,TXN-CIN-10039,Pixel Quest,Animation,G,CineCity Iloilo,Iloilo City,Western Visayas,Family,IMAX,550,2,300,Debit Card,Partner Kiosk,17/02/2026,7:00 pm,1400
+TCK-0040,TXN-CIN-10040,The Final Screening,Thriller,R-13,CineCity Iloilo,Iloilo City,Western Visayas,Senior,Regular,224,1,180,Credit Card,Website,22/02/2026,4:00 pm,404
+TCK-0041,TXN-CIN-10041,Laughing Shadows,Comedy,PG,CineCity Quezon,Quezon City,NCR,PWD,Regular,224,2,180,Credit Card,Walk-in,28/03/2026,10:00 pm,628
+TCK-0042,TXN-CIN-10042,The Final Screening,Thriller,R-13,CineCity Cebu,Cebu City,Central Visayas,Regular,Premium,380,1,0,Maya,Partner Kiosk,17/02/2026,1:00 pm,380
+TCK-0043,TXN-CIN-10043,The Final Screening,Thriller,R-13,CineCity Manila,Manila,NCR,PWD,Director's Club,560,4,450,Debit Card,Mobile App,04/03/2026,10:00 am,2690
+TCK-0044,TXN-CIN-10044,Laughing Shadows,Comedy,PG,CineCity Manila,Manila,NCR,Family,Premium,380,6,450,G-Cash,Mobile App,03/01/2026,7:00 pm,2730
+TCK-0045,TXN-CIN-10045,Pixel Quest,Animation,G,CineCity Manila,Manila,NCR,Family,Premium,380,2,180,Debit Card,Partner Kiosk,26/03/2026,10:00 pm,940
+TCK-0046,TXN-CIN-10046,Laughing Shadows,Comedy,PG,CineCity Quezon,Quezon City,NCR,Senior,Regular,224,5,120,Debit Card,Partner Kiosk,14/01/2026,10:00 am,1240
+TCK-0047,TXN-CIN-10047,Masked Hero,Action,PG-13,CineCity Quezon,Quezon City,NCR,Senior,Premium,304,6,300,Maya,Website,04/01/2026,10:00 am,2124
+TCK-0048,TXN-CIN-10048,Love Behind the Mask,Romance,PG,CineCity Quezon,Quezon City,NCR,Regular,Director's Club,700,6,450,Maya,Mobile App,03/02/2026,1:00 pm,4650
+TCK-0049,TXN-CIN-10049,Hidden Stage,Drama,PG,CineCity Quezon,Quezon City,NCR,Senior,IMAX,440,1,450,Cash,Website,19/02/2026,10:00 am,890
+TCK-0050,TXN-CIN-10050,Midnight Signal,Sci-Fi,PG-13,CineCity Iloilo,Iloilo City,Western Visayas,PWD,Premium,304,1,300,Credit Card,Website,09/03/2026,1:00 pm,604
+TCK-0051,TXN-CIN-10051,Love Behind the Mask,Romance,PG,CineCity Manila,Manila,NCR,Senior,IMAX,440,5,300,Maya,Mobile App,06/03/2026,10:00 pm,2500
+TCK-0052,TXN-CIN-10052,Masked Hero,Action,PG-13,CineCity Manila,Manila,NCR,Student,IMAX,495,6,0,GCash,Website,21/01/2026,7:00 pm,2970
+TCK-0053,TXN-CIN-10053,The Final Screening,Thriller,R-13,CineCity Manila,Manila,NCR,Senior,Regular,224,2,180,Maya,Partner Kiosk,30/03/2026,1:00 pm,628
+TCK-0054,TXN-CIN-10054,Masked Hero,Action,PG-13,CineCity Quezon,Quezon City,NCR,Senior,Premium,304,4,0,Maya,Partner Kiosk,05/03/2026,10:00 am,1216
+TCK-0055,TXN-CIN-10055,Pixel Quest,Animation,G,CineCity Davao,Davao City,Davao Region,PWD,Regular,224,3,180,Maya,Mobile App,23/02/2026,10:00 am,852
+TCK-0056,TXN-CIN-10056,Monster Weekend,Horror,R-13,CineCity Davao,Davao City,Davao Region,Senior,Premium,304,3,120,Credit Card,Walk-in,11/02/2026,10:00 am,1032
+TCK-0057,TXN-CIN-10057,Hidden Stage,Drama,PG,CineCity Quezon,Quezon City,NCR,Student,Director's Club,630,2,180,GCash,Partner Kiosk,11/03/2026,4:00 pm,1440
+TCK-0058,TXN-CIN-10058,The Final Screening,Thriller,R-13,CineCity Quezon,Quezon City,NCR,Regular,Director's Club,700,2,300,Credit Card,Partner Kiosk,06/03/2026,7:00 pm,1700
+TCK-0059,TXN-CIN-10059,Masked Hero,Action,PG-13,CineCity Davao,Davao City,Davao Region,PWD,Premium,304,1,300,GCash,Walk-in,22/02/2026,7:00 pm,604
+TCK-0060,TXN-CIN-10060,Pixel Quest,Animation,G,CineCity Iloilo,Iloilo City,Western Visayas,PWD,IMAX,440,3,180,Credit Card,Mobile App,13/03/2026,10:00 am,1500
+TCK-0061,TXN-CIN-10061,Love Behind the Mask,Romance,PG,CineCity Davao,Davao City,Davao Region,Family,Regular,280,1,300,GCash,Mobile App,01/02/2026,1:00 pm,580
+TCK-0062,TXN-CIN-10062,Love Behind the Mask,Romance,PG,CineCity Davao,Davao City,Davao Region,Senior,Premium,304,6,120,GCash,Walk-in,05/03/2026,1:00 pm,1944
+TCK-0063,TXN-CIN-10063,Midnight Signal,Sci-Fi,PG-13,CineCity Iloilo,Iloilo City,Western Visayas,Regular,IMAX,550,6,450,Credit Card,Mobile App,05/02/2026,7:00 pm,3750
+TCK-0064,TXN-CIN-10064,Love Behind the Mask,Romance,PG,CineCity Iloilo,Iloilo City,Western Visayas,Senior,Regular,224,2,300,Debit Card,Mobile App,19/03/2026,4:00 pm,748
+TCK-0066,TXN-CIN-10066,Pixel Quest,Animation,G,CineCity Cebu,Cebu City,Central Visayas,PWD,Director's Club,560,4,0,Credit Card,Mobile App,28/03/2026,4:00 pm,2240
+TCK-0067,TXN-CIN-10067,The Final Screening,Thriller,R-13,CineCity Iloilo,Iloilo City,Western Visayas,Family,IMAX,550,2,450,Credit Card,Walk-in,08/03/2026,7:00 pm,1550
+TCK-0068,TXN-CIN-10068,Laughing Shadows,Comedy,PG,CineCity Iloilo,Iloilo City,Western Visayas,Senior,Regular,224,6,0,Credit Card,Partner Kiosk,25/03/2026,1:00 pm,1344
+TCK-0069,TXN-CIN-10069,Monster Weekend,Horror,R-13,CineCity Manila,Manila,NCR,Student,Regular,252,3,0,Maya,Partner Kiosk,14/03/2026,7:00 pm,756
+TCK-0070,TXN-CIN-10070,Pixel Quest,Animation,G,CineCity Manila,Manila,NCR,Senior,Director's Club,560,3,120,Credit Card,Partner Kiosk,06/03/2026,1:00 pm,1800
+TCK-0071,TXN-CIN-10071,Masked Hero,Action,PG-13,CineCity Iloilo,Iloilo City,Western Visayas,Regular,Regular,280,6,450,Maya,Website,13/01/2026,10:00 pm,2130
+TCK-0072,TXN-CIN-10072,Laughing Shadows,Comedy,PG,CineCity Davao,Davao City,Davao Region,Student,IMAX,495,6,450,GCash,Website,03/03/2026,7:00 pm,3420
+TCK-0073,TXN-CIN-10073,Hidden Stage,Drama,PG,CineCity Iloilo,iloilo city,Western Visayas,PWD,Premium,304,5,300,Debit Card,Walk-in,06/02/2026,7:00 pm,1820
+TCK-0074,TXN-CIN-10074,Love Behind the Mask,Romance,PG,CineCity Iloilo,Iloilo City,Western Visayas,PWD,Regular,224,5,250,Maya,Website,16/02/2026,7:00 pm,1370
+TCK-0075,TXN-CIN-10075,Monster Weekend,Horror,R-13,CineCity Davao,Davao City,Davao Region,Student,Director's Club,630,1,250,Maya,Partner Kiosk,23/02/2026,7:00 pm,880
+TCK-0076,TXN-CIN-10076,Pixel Quest,Animation,G,CineCity Manila,Manila,NCR,Student,Premium,342,4,450,Cash,Partner Kiosk,16/03/2026,10:00 pm,1818
+TCK-0077,TXN-CIN-10077,Monster Weekend,Horror,R-13,CineCity Manila,Manila,NCR,Student,IMAX,495,5,450,GCash,Website,12/03/2026,7:00 pm,2925
+TCK-0078,TXN-CIN-10078,Monster Weekend,Horror,R-13,CineCity Iloilo,Iloilo City,Western Visayas,Regular,Regular,280,5,450,GCash,Website,24/02/2026,10:00 am,1850
+TCK-0079,TXN-CIN-10079,Hidden Stage,Drama,PG,CineCity Cebu,Cebu City,Central Visayas,Regular,Premium,380,3,0,Maya,Website,22/03/2026,4:00 pm,1140
+TCK-0080,TXN-CIN-10080,Masked Hero,Action,PG-13,CineCity Davao,Davao City,Davao Region,Regular,Premium,380,3,120,GCash,Partner Kiosk,17/01/2026,10:00 am,1260
+TCK-0081,TXN-CIN-10081,The Final Screening,Thriller,R-13,CineCity Iloilo,Iloilo City,Western Visayas,Family,Director's Club,700,2,250,Cash,Walk-in,24/01/2026,1:00 pm,1650
+TCK-0082,TXN-CIN-10082,Monster Weekend,Horror,R-13,CineCity Quezon,Quezon City,NCR,PWD,IMAX,440,1,300,GCash,Mobile App,30/01/2026,4:00 pm,740
+TCK-0083,TXN-CIN-10083,Midnight Signal,Sci-Fi,PG-13,CineCity Iloilo,Iloilo City,Western Visayas,Student,Premium,342,1,300,Credit Card,Walk-in,12/01/2026,1:00 pm,642
+TCK-0084,TXN-CIN-10084,Masked Hero,Action,PG-13,CineCity Quezon,Quezon City,NCR,Family,Director's Club,700,1,180,Cash,Mobile App,04/02/2026,7:00 pm,880
+TCK-0085,TXN-CIN-10085,The Final Screening,Thriller,R-13,CineCity Manila,Manila,NCR,Family,Director's Club,700,2,300,Maya,Mobile App,15/02/2026,7:00 pm,1700
+TCK-0086,TXN-CIN-10086,Midnight Signal,Sci-Fi,PG-13,CineCity Manila,Manila,NCR,Regular,IMAX,550,6,250,Maya,Mobile App,26/02/2026,10:00 am,3550
+TCK-0087,TXN-CIN-10087,Pixel Quest,Animation,G,CineCity Manila,Manila,NCR,Family,IMAX,550,4,300,Maya,Website,14/01/2026,4:00 pm,2500
+TCK-0088,TXN-CIN-10088,The Final Screening,Thriller,R-13,CineCity Davao,Davao City,Davao Region,PWD,IMAX,280,3,0,Maya,Website,30/03/2026,10:00 am,840
+TCK-0089,TXN-CIN-10089,Pixel Quest,Animation,G,CineCity Manila,Manila,NCR,Regular,Regular,280,1,180,Maya,Mobile App,24/01/2026,1:00 pm,460
+TCK-0090,TXN-CIN-10090,Hidden Stage,Drama,PG,CineCity Davao,Davao City,Davao Region,Regular,Regular,280,6,180,Maya,Walk-in,23/02/2026,10:00 pm,1860
+TCK-0091,TXN-CIN-10091,Laughing Shadows,Comedy,PG,CineCity Davao,Davao City,Davao Region,Student,Director's Club,630,4,300,Debit Card,Website,27/01/2026,1:00 pm,2820
+TCK-0092,TXN-CIN-10092,Hidden Stage,Drama,PG,CineCity Cebu,Cebu City,Central Visayas,Senior,Regular,224,4,180,GCash,Website,01/02/2026,1:00 pm,1076
+TCK-0093,TXN-CIN-10093,Pixel Quest,Animation,G,CineCity Cebu,Cebu City,Central Visayas,Family,Director's Club,700,3,250,Credit Card,Partner Kiosk,17/03/2026,4:00 pm,2350
+TCK-0094,TXN-CIN-10094,The Final Screening,Thriller,R-13,CineCity Cebu,Cebu City,Central Visayas,Regular,IMAX,550,5,0,Credit Card,Walk-in,07/02/2026,10:00 pm,2750
+TCK-0095,TXN-CIN-10095,Pixel Quest,Animation,G,CineCity Cebu,Cebu City,Central Visayas,Regular,Director's Club,700,2,120,Cash,Walk-in,20/02/2026,4:00 pm,1520
+TCK-0096,TXN-CIN-10096,Hidden Stage,Drama,PG,CineCity Davao,Davao City,Davao Region,Family,Regular,280,5,120,Cash,Mobile App,23/03/2026,4:00 pm,1520
+TCK-0097,TXN-CIN-10097,Masked Hero,Action,PG-13,CineCity Cebu,Cebu City,Central Visayas,PWD,Premium,304,2,180,GCash,Website,01/01/2026,10:00 am,788
+TCK-0098,TXN-CIN-10098,Laughing Shadows,Comedy,PG,CineCity Iloilo,Iloilo City,Western Visayas,Regular,Regular,280,5,300,Maya,Partner Kiosk,30/01/2026,10:00 pm,1700
+TCK-0099,TXN-CIN-10099,The Final Screening,Thriller,R-13,CineCity Cebu,Cebu City,Central Visayas,Student,Regular,252,3,300,Maya,Mobile App,23/01/2026,7:00 pm,1056
+TCK-0100,TXN-CIN-10100,Midnight Signal,Sci-Fi,PG-13,CineCity Iloilo,Iloilo City,Western Visayas,PWD,IMAX,440,4,120,Credit Card,Mobile App,31/03/2026,1:00 pm,1880
+TCK-0101,TXN-CIN-10101,Laughing Shadows,Comedy,PG,CineCity Cebu,Cebu City,Central Visayas,Senior,Premium,304,6,0,Debit Card,Website,26/01/2026,1:00 pm,1824
+TCK-0102,TXN-CIN-10102,The Final Screening,Thriller,R-13,CineCity Quezon,Quezon City,NCR,Regular,IMAX,550,5,300,Cash,Website,22/03/2026,7:00 pm,3050
+TCK-0103,TXN-CIN-10103,Love Behind the Mask,Romance,PG,CineCity Iloilo,Iloilo City,Western Visayas,Regular,Regular,280,2,300,Credit Card,Walk-in,24/03/2026,1:00 pm,860
+TCK-0104,TXN-CIN-10104,The Final Screening,Thriller,R-13,CineCity Quezon,Quezon City,NCR,PWD,Regular,224,2,120,Cash,Walk-in,07/03/2026,1:00 pm,568
+TCK-0105,TXN-CIN-10105,Love Behind the Mask,Romance,PG,CineCity Manila,Manila,NCR,Family,Premium,380,1,300,Cash,Website,03/03/2026,1:00 pm,680
+TCK-0106,TXN-CIN-10106,Monster Weekend,Horror,R-13,CineCity Quezon,Quezon City,NCR,Regular,Director's Club,700,1,450,Debit Card,Website,30/03/2026,10:00 pm,1150
+TCK-0107,TXN-CIN-10107,Masked Hero,Action,PG-13,CineCity Davao,Davao City,Davao Region,Student,Regular,252,4,250,Maya,Partner Kiosk,28/03/2026,10:00 am,1258
+TCK-0108,TXN-CIN-10108,Love Behind the Mask,Romance,PG,CineCity Manila,Manila,NCR,PWD,IMAX,440,6,180,GCash,Website,03/03/2026,10:00 pm,2820
+TCK-0109,TXN-CIN-10109,Midnight Signal,Sci-Fi,PG-13,CineCity Davao,Davao City,Davao Region,Regular,IMAX,550,3,450,Maya,Website,15/02/2026,1:00 pm,2100
+TCK-0110,TXN-CIN-10110,Laughing Shadows,Comedy,PG,CineCity Cebu,Cebu City,Central Visayas,Family,Director's Club,700,3,120,Cash,Walk-in,21/02/2026,7:00 pm,2220
+TCK-0111,TXN-CIN-10111,The Final Screening,Thriller,R-13,CineCity Iloilo,Iloilo City,Western Visayas,regular,Premium,380,3,300,Debit Card,Mobile App,04/03/2026,7:00 pm,1440
+TCK-0112,TXN-CIN-10112,Laughing Shadows,Comedy,PG,CineCity Davao,Davao City,Davao Region,Student,IMAX,495,2,450,Debit Card,Website,10/01/2026,10:00 pm,1440
+TCK-0113,TXN-CIN-10113,Midnight Signal,Sci-Fi,PG-13,CineCity Cebu,Cebu City,Central Visayas,Senior,Regular,224,2,120,Maya,Website,09/02/2026,10:00 pm,568
+TCK-0114,TXN-CIN-10114,Hidden Stage,Drama,PG,CineCity Iloilo,Iloilo City,Western Visayas,Family,Premium,380,1,0,GCash,Website,18/02/2026,4:00 pm,380
+TCK-0115,TXN-CIN-10115,Hidden Stage,Drama,PG,CineCity Quezon,Quezon City,NCR,Student,Director's Club,630,4,250,Debit Card,Walk-in,12/01/2026,10:00 am,2770
+TCK-0116,TXN-CIN-10116,Midnight Signal,Sci-Fi,PG-13,CineCity Iloilo,Iloilo City,Western Visayas,Family,Premium,380,3,120,Debit Card,Website,19/03/2026,10:00 pm,1260
+TCK-0117,TXN-CIN-10117,Hidden Stage,Drama,PG,CineCity Davao,Davao City,Davao Region,Student,Director's Club,630,6,250,GCash,Partner Kiosk,27/03/2026,1:00 pm,4030
+TCK-0118,TXN-CIN-10118,Midnight Signal,Sci-Fi,PG-13,CineCity Quezon,Quezon City,NCR,Regular,Director's Club,700,2,0,Cash,Partner Kiosk,07/03/2026,7:00 pm,1400
+TCK-0119,TXN-CIN-10119,Pixel Quest,Animation,G,CineCity Davao,Davao City,Davao Region,Regular,IMAX,550,5,300,Maya,Mobile App,01/02/2026,1:00 pm,3050
+TCK-0120,TXN-CIN-10120,Love Behind the Mask,Romance,PG,CineCity Manila,Manila,NCR,PWD,IMAX,440,2,250,Maya,Walk-in,27/02/2026,10:00 pm,1130
+TCK-0121,TXN-CIN-10121,Masked Hero,Action,PG-13,CineCity Quezon,Quezon City,NCR,Regular,IMAX,550,6,300,Debit Card,Partner Kiosk,14/01/2026,7:00 pm,3600
+TCK-0122,TXN-CIN-10122,Midnight Signal,Sci-Fi,PG-13,CineCity Quezon,Quezon City,NCR,Family,Regular,280,6,0,GCash,Walk-in,22/01/2026,10:00 pm,1680
+TCK-0123,TXN-CIN-10123,Midnight Signal,Sci-Fi,PG-13,CineCity Quezon,Quezon City,NCR,Senior,IMAX,440,6,120,GCash,Walk-in,28/02/2026,10:00 am,2760
+TCK-0124,TXN-CIN-10124,The Final Screening,Thriller,R-13,CineCity Davao,Davao City,Davao Region,Regular,Regular,280,5,120,GCash,Website,22/01/2026,10:00 pm,1520
+TCK-0125,TXN-CIN-10125,Love Behind the Mask,Romance,PG,CineCity Davao,Davao City,Davao Region,Senior,Premium,304,1,250,Debit Card,Partner Kiosk,07/01/2026,10:00 pm,554
+TCK-0126,TXN-CIN-10126,Love Behind the Mask,Romance,PG,CineCity Manila,Manila,NCR,PWD,Regular,224,4,250,Credit Card,Mobile App,30/03/2026,10:00 am,1146
+TCK-0127,TXN-CIN-10127,Midnight Signal,Sci-Fi,PG-13,CineCity Iloilo,Iloilo City,Western Visayas,Student,Regular,252,3,120,Credit Card,Website,03/08/2026,10:00 am,876
+TCK-0128,TXN-CIN-10128,Hidden Stage,Drama,PG,CineCity Iloilo,Iloilo City,Western Visayas,PWD,Director's Club,560,5,120,Debit Card,Walk-in,26/03/2026,1:00 pm,2920
+TCK-0129,TXN-CIN-10129,The Final Screening,Thriller,R-13,CineCity Davao,Davao City,Davao Region,Student,Director's Club,630,6,250,Cash,Partner Kiosk,08/01/2026,1:00 pm,4030
+TCK-0130,TXN-CIN-10130,Pixel Quest,Animation,G,CineCity Quezon,Quezon City,NCR,PWD,Regular,224,6,250,Debit Card,Mobile App,23/02/2026,7:00 pm,1594
+TCK-0131,TXN-CIN-10131,Pixel Quest,Animation,G,CineCity Davao,Davao City,Davao Region,Family,IMAX,550,5,120,Cash,Website,04/01/2026,4:00 pm,2870
+TCK-0132,TXN-CIN-10132,Pixel Quest,Animation,G,CineCity Quezon,Quezon City,NCR,Senior,Premium,304,5,250,Credit Card,Mobile App,28/03/2026,10:00 am,1770
+TCK-0133,TXN-CIN-10133,Masked Hero,Action,PG-13,CineCity Cebu,Cebu City,Central Visayas,Regular,Premium,380,1,120,Maya,Walk-in,21/03/2026,4:00 pm,500
+TCK-0134,TXN-CIN-10134,Hidden Stage,Drama,PG,CineCity Quezon,Quezon City,NCR,Senior,IMAX,440,4,450,Maya,Website,29/01/2026,1:00 pm,2210
+TCK-0135,TXN-CIN-10135,Pixel Quest,Animation,G,CineCity Davao,Davao City,Davao Region,Student,Regular,252,3,120,GCash,Partner Kiosk,21/03/2026,1:00 pm,876
+TCK-0136,TXN-CIN-10136,Pixel Quest,Animation,G,CineCity Iloilo,Iloilo City,Western Visayas,PWD,Director's Club,560,4,450,Credit Card,Partner Kiosk,10/02/2026,7:00 pm,2690
+TCK-0137,TXN-CIN-10137,Hidden Stage,Drama,PG,CineCity Davao,Davao City,Davao Region,Senior,IMAX,440,4,250,Maya,Walk-in,07/02/2026,1:00 pm,2010
+TCK-0138,TXN-CIN-10138,Masked Hero,Action,PG-13,CineCity Quezon,Quezon City,NCR,Student,Premium,342,1,300,Debit Card,Partner Kiosk,20/03/2026,10:00 am,642
+TCK-0139,TXN-CIN-10139,Laughing Shadows,Comedy,PG,CineCity Iloilo,Iloilo City,Western Visayas,Student,Premium,342,3,300,Credit Card,Partner Kiosk,16/02/2026,7:00 pm,1326
+TCK-0140,TXN-CIN-10140,Monster Weekend,Horror,R-13,CineCity Cebu,Cebu City,Central Visayas,Student,IMAX,495,1,180,Cash,Mobile App,23/01/2026,4:00 pm,675
+TCK-0141,TXN-CIN-10141,Masked Hero,Action,PG-13,CineCity Quezon,Quezon City,NCR,Regular,Premium,380,6,300,GCash,Mobile App,25/02/2026,10:00 pm,2580
+TCK-0142,TXN-CIN-10142,Pixel Quest,Animation,G,CineCity Manila,Manila,NCR,Family,Premium,380,3,450,Cash,Partner Kiosk,30/01/2026,7:00 pm,1590
+TCK-0143,TXN-CIN-10143,Laughing Shadows,Comedy,PG,CineCity Manila,Manila,NCR,Student,Premium,342,1,180,Debit Card,Website,17/03/2026,7:00 pm,522
+TCK-0144,TXN-CIN-10144,Pixel Quest,Animation,G,CineCity Iloilo,Iloilo City,Western Visayas,Family,Director's Club,700,5,120,Cash,Mobile App,24/03/2026,10:00 pm,3620
+TCK-0145,TXN-CIN-10145,The Final Screening,Thriller,R-13,CineCity Manila,Manila,NCR,PWD,Director's Club,560,5,250,Maya,Partner Kiosk,13/02/2026,1:00 pm,3050
+TCK-0146,TXN-CIN-10146,Midnight Signal,Sci-Fi,PG-13,CineCity Quezon,Quezon City,NCR,Senior,IMAX,440,2,300,Maya,Website,15/02/2026,10:00 am,1180
+TCK-0147,TXN-CIN-10147,The Final Screening,Thriller,R-13,CineCity Manila,Manila,NCR,Student,Premium,342,1,0,GCash,Mobile App,03/02/2026,1:00 pm,342
+TCK-0148,TXN-CIN-10148,Laughing Shadows,Comedy,PG,CineCity Iloilo,Iloilo City,Western Visayas,PWD,Director's Club,560,3,300,Maya,Website,22/01/2026,1:00 pm,1980
+TCK-0149,TXN-CIN-10149,Pixel Quest,Animation,G,CineCity Cebu,Cebu City,Central Visayas,Regular,Regular,280,3,180,Debit Card,Website,11/02/2026,4:00 pm,1020
+TCK-0150,TXN-CIN-10150,Monster Weekend,Horror,R-13,CineCity Manila,Manila,NCR,Family,IMAX,550,5,0,Cash,Mobile App,22/03/2026,10:00 pm,2750
